@@ -1,1 +1,2 @@
 it is change status that feature/b1 branch
+it is modified file by other user
