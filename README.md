@@ -1,3 +1,11 @@
-# Git을 잘 활용하기 위한 테스트 용 Respository
+## Git Flow Study
 
-각 명령어에 대한 이해와 히스토리 단장을 위한 공부
+### Init
+```
+git flow init
+```
+
+### Start
+```
+git flow feature start $(branch)
+```
